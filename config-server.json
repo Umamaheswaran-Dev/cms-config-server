@@ -1,0 +1,7 @@
+{
+  "git": {
+    "uri": "https://github.com/Umamaheswaran-Dev/cms-config-server.git",
+    "label": "master",
+    "searchPaths": "dev"
+  }
+}
